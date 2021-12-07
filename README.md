@@ -27,5 +27,6 @@ chapter | about
 15 | 분류/회귀
 16 | Bagging/Boosting
 17 | 초모수 튜닝
+18 | 메타모형/모형 자동화
 
 ###### <i>Assignment implemented every week is in the 'assignments' folder.</i>
