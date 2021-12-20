@@ -30,3 +30,4 @@ chapter | about
 18 | 메타모형/모형 자동화
 
 ###### <i>Assignment implemented every week is in the 'assignments' folder.</i>
+##### <i>Final assignment (final_report.pdf) is to conduct data analysis using your own dataset and models.</i>
